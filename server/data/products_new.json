@@ -1,0 +1,1579 @@
+[
+  {
+    "_id": "63df618daa24dd7529ad8337",
+    "name": "atom ochre boot",
+    "description": "With Alpha Boot we wanted to reinvent the classic trekking boot but with a much lighter, urban and comfortable sole. All this is due to the implementation of our latest sole: Alpha, with which we have achieved optimal grip, no matter the situation. In addition, thanks to its waxed microfiber surface, PU and its internal mesh lining, it makes it perfect for winter and the inclemency of your day to day in the city. The future of trekking boots is here.",
+    "price": 250,
+    "image": "shoes-(1).png",
+    "category": "63292e769de7cef23355a195",
+    "discount": 30,
+    "sold": 0,
+    "ratingAverage": 0,
+    "reviewsNumber": 0,
+    "variants": [
+      {
+        "color": "black",
+        "size": "38",
+        "stock": 12
+      },
+      {
+        "color": "black",
+        "size": "40",
+        "stock": 12
+      },
+      {
+        "color": "black",
+        "size": "42",
+        "stock": 12
+      },
+      {
+        "color": "black",
+        "size": "46",
+        "stock": 12
+      },
+      {
+        "color": "green",
+        "size": "38",
+        "stock": 12
+      },
+      {
+        "color": "green",
+        "size": "40",
+        "stock": 12
+      },
+      {
+        "color": "green",
+        "size": "42",
+        "stock": 12
+      },
+      {
+        "color": "green",
+        "size": "46",
+        "stock": 12
+      },
+      {
+        "color": "blue",
+        "size": "38",
+        "stock": 12
+      },
+      {
+        "color": "blue",
+        "size": "40",
+        "stock": 12
+      },
+      {
+        "color": "blue",
+        "size": "42",
+        "stock": 12
+      },
+      {
+        "color": "blue",
+        "size": "46",
+        "stock": 12
+      },
+      {
+        "color": "gray",
+        "size": "38",
+        "stock": 12
+      },
+      {
+        "color": "gray",
+        "size": "40",
+        "stock": 12
+      },
+      {
+        "color": "gray",
+        "size": "42",
+        "stock": 12
+      },
+      {
+        "color": "gray",
+        "size": "46",
+        "stock": 12
+      }
+    ]
+  },
+  {
+    "_id": "63df618daa24dd7529ad8338",
+    "name": "alpha boot brown",
+    "description": "With Alpha Boot we wanted to reinvent the classic trekking boot but with a much lighter, urban and comfortable sole. All this is due to the implementation of our latest sole: Alpha, with which we have achieved optimal grip, no matter the situation. In addition, thanks to its waxed microfiber surface, PU and its internal mesh lining, it makes it perfect for winter and the inclemency of your day to day in the city. The future of trekking boots is here.",
+    "price": 320,
+    "image": "shoes-(2).webp",
+    "category": "63292e769de7cef23355a195",
+    "discount": 50,
+    "sold": 0,
+    "ratingAverage": 0,
+    "reviewsNumber": 0,
+    "variants": [
+      {
+        "color": "brown",
+        "size": "36",
+        "stock": 3
+      },
+      {
+        "color": "brown",
+        "size": "38",
+        "stock": 3
+      },
+      {
+        "color": "brown",
+        "size": "40",
+        "stock": 3
+      },
+      {
+        "color": "brown",
+        "size": "42",
+        "stock": 3
+      },
+      {
+        "color": "brown",
+        "size": "46",
+        "stock": 3
+      },
+      {
+        "color": "brown",
+        "size": "48",
+        "stock": 3
+      }
+    ]
+  },
+  {
+    "name": "alpha boot black",
+    "description": "With Alpha Boot we wanted to reinvent the classic trekking boot but with a much lighter, urban and comfortable sole. All this is due to the implementation of our latest sole: Alpha, with which we have achieved optimal grip, no matter the situation. In addition, thanks to its waxed microfiber surface, PU and its internal mesh lining, it makes it perfect for winter and the inclemency of your day to day in the city. The future of trekking boots is here.",
+    "price": 470,
+    "image": "shoes-(3).jpg",
+    "category": "63292e769de7cef23355a195",
+    "discount": 90,
+    "sold": 0,
+    "ratingAverage": 0,
+    "reviewsNumber": 0,
+    "variants": [
+      {
+        "color": "black",
+        "size": "38",
+        "stock": 0
+      },
+      {
+        "color": "black",
+        "size": "40",
+        "stock": 0
+      },
+      {
+        "color": "black",
+        "size": "42",
+        "stock": 0
+      },
+      {
+        "color": "black",
+        "size": "46",
+        "stock": 0
+      }
+    ]
+  },
+  {
+    "name": "army boot black",
+    "description": "With Alpha Boot we wanted to reinvent the classic trekking boot but with a much lighter, urban and comfortable sole. All this is due to the implementation of our latest sole: Alpha, with which we have achieved optimal grip, no matter the situation. In addition, thanks to its waxed microfiber surface, PU and its internal mesh lining, it makes it perfect for winter and the inclemency of your day to day in the city. The future of trekking boots is here.",
+    "price": 600,
+    "image": "shoes-(4).jpg",
+    "category": "63292e769de7cef23355a195",
+    "discount": 50,
+    "sold": 0,
+    "ratingAverage": 0,
+    "reviewsNumber": 0,
+    "variants": [
+      {
+        "color": "black",
+        "size": "40",
+        "stock": 23
+      },
+      {
+        "color": "black",
+        "size": "42",
+        "stock": 23
+      },
+      {
+        "color": "black",
+        "size": "46",
+        "stock": 23
+      }
+    ]
+  },
+  {
+    "name": "ucon black",
+    "description": "With Alpha Boot we wanted to reinvent the classic trekking boot but with a much lighter, urban and comfortable sole. All this is due to the implementation of our latest sole: Alpha, with which we have achieved optimal grip, no matter the situation. In addition, thanks to its waxed microfiber surface, PU and its internal mesh lining, it makes it perfect for winter and the inclemency of your day to day in the city. The future of trekking boots is here.",
+    "price": 140,
+    "image": "shoes-(5).jpg",
+    "category": "63292e769de7cef23355a195",
+    "discount": 0,
+    "sold": 0,
+    "ratingAverage": 0,
+    "reviewsNumber": 0,
+    "variants": [
+      {
+        "color": "black",
+        "size": "38",
+        "stock": 2
+      },
+      {
+        "color": "black",
+        "size": "40",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "name": "atom black boot",
+    "description": "With Alpha Boot we wanted to reinvent the classic trekking boot but with a much lighter, urban and comfortable sole. All this is due to the implementation of our latest sole: Alpha, with which we have achieved optimal grip, no matter the situation. In addition, thanks to its waxed microfiber surface, PU and its internal mesh lining, it makes it perfect for winter and the inclemency of your day to day in the city. The future of trekking boots is here.",
+    "price": 90,
+    "image": "shoes-(6).jpg",
+    "category": "63292e769de7cef23355a195",
+    "discount": 0,
+    "sold": 0,
+    "ratingAverage": 0,
+    "reviewsNumber": 0,
+    "variants": [
+      {
+        "color": "black",
+        "size": "42",
+        "stock": 2
+      },
+      {
+        "color": "black",
+        "size": "46",
+        "stock": 2
+      },
+      {
+        "color": "gray",
+        "size": "42",
+        "stock": 2
+      },
+      {
+        "color": "gray",
+        "size": "46",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "name": "army boot blue",
+    "description": "With Alpha Boot we wanted to reinvent the classic trekking boot but with a much lighter, urban and comfortable sole. All this is due to the implementation of our latest sole: Alpha, with which we have achieved optimal grip, no matter the situation. In addition, thanks to its waxed microfiber surface, PU and its internal mesh lining, it makes it perfect for winter and the inclemency of your day to day in the city. The future of trekking boots is here.",
+    "price": 500,
+    "image": "shoes-(7).jpg",
+    "category": "63292e769de7cef23355a195",
+    "discount": 100,
+    "sold": 0,
+    "ratingAverage": 0,
+    "reviewsNumber": 0
+  },
+  {
+    "name": "atom gray boot",
+    "description": "With Alpha Boot we wanted to reinvent the classic trekking boot but with a much lighter, urban and comfortable sole. All this is due to the implementation of our latest sole: Alpha, with which we have achieved optimal grip, no matter the situation. In addition, thanks to its waxed microfiber surface, PU and its internal mesh lining, it makes it perfect for winter and the inclemency of your day to day in the city. The future of trekking boots is here.",
+    "price": 789,
+    "image": "shoes-(8).jpg",
+    "category": "63292e769de7cef23355a195",
+    "discount": 50,
+    "sold": 0,
+    "ratingAverage": 0,
+    "reviewsNumber": 0,
+    "variants": [
+      {
+        "color": "red",
+        "size": "38",
+        "stock": 32
+      },
+      {
+        "color": "red",
+        "size": "40",
+        "stock": 32
+      },
+      {
+        "color": "red",
+        "size": "42",
+        "stock": 32
+      },
+      {
+        "color": "red",
+        "size": "46",
+        "stock": 32
+      },
+      {
+        "color": "red",
+        "size": "48",
+        "stock": 32
+      },
+      {
+        "color": "green",
+        "size": "38",
+        "stock": 32
+      },
+      {
+        "color": "green",
+        "size": "40",
+        "stock": 32
+      },
+      {
+        "color": "green",
+        "size": "42",
+        "stock": 32
+      },
+      {
+        "color": "green",
+        "size": "46",
+        "stock": 32
+      },
+      {
+        "color": "green",
+        "size": "48",
+        "stock": 32
+      },
+      {
+        "color": "blue",
+        "size": "38",
+        "stock": 32
+      },
+      {
+        "color": "blue",
+        "size": "40",
+        "stock": 32
+      },
+      {
+        "color": "blue",
+        "size": "42",
+        "stock": 32
+      },
+      {
+        "color": "blue",
+        "size": "46",
+        "stock": 32
+      },
+      {
+        "color": "blue",
+        "size": "48",
+        "stock": 32
+      },
+      {
+        "color": "gray",
+        "size": "38",
+        "stock": 32
+      },
+      {
+        "color": "gray",
+        "size": "40",
+        "stock": 32
+      },
+      {
+        "color": "gray",
+        "size": "42",
+        "stock": 32
+      },
+      {
+        "color": "gray",
+        "size": "46",
+        "stock": 32
+      },
+      {
+        "color": "gray",
+        "size": "48",
+        "stock": 32
+      },
+      {
+        "color": "black",
+        "size": "38",
+        "stock": 32
+      },
+      {
+        "color": "black",
+        "size": "40",
+        "stock": 32
+      },
+      {
+        "color": "black",
+        "size": "42",
+        "stock": 32
+      },
+      {
+        "color": "black",
+        "size": "46",
+        "stock": 32
+      },
+      {
+        "color": "black",
+        "size": "48",
+        "stock": 32
+      }
+    ]
+  },
+  {
+    "name": "alpha army boot",
+    "description": "With Alpha Boot we wanted to reinvent the classic trekking boot but with a much lighter, urban and comfortable sole. All this is due to the implementation of our latest sole: Alpha, with which we have achieved optimal grip, no matter the situation. In addition, thanks to its waxed microfiber surface, PU and its internal mesh lining, it makes it perfect for winter and the inclemency of your day to day in the city. The future of trekking boots is here.",
+    "price": 1200,
+    "image": "shoes-(9).webp",
+    "category": "63292e769de7cef23355a195",
+    "discount": 100,
+    "sold": 0,
+    "ratingAverage": 0,
+    "reviewsNumber": 0,
+    "variants": [
+      {
+        "color": "black",
+        "size": "38",
+        "stock": 11
+      },
+      {
+        "color": "black",
+        "size": "40",
+        "stock": 11
+      },
+      {
+        "color": "black",
+        "size": "42",
+        "stock": 11
+      },
+      {
+        "color": "black",
+        "size": "46",
+        "stock": 11
+      },
+      {
+        "color": "green",
+        "size": "38",
+        "stock": 11
+      },
+      {
+        "color": "green",
+        "size": "40",
+        "stock": 11
+      },
+      {
+        "color": "green",
+        "size": "42",
+        "stock": 11
+      },
+      {
+        "color": "green",
+        "size": "46",
+        "stock": 11
+      },
+      {
+        "color": "blue",
+        "size": "38",
+        "stock": 11
+      },
+      {
+        "color": "blue",
+        "size": "40",
+        "stock": 11
+      },
+      {
+        "color": "blue",
+        "size": "42",
+        "stock": 11
+      },
+      {
+        "color": "blue",
+        "size": "46",
+        "stock": 11
+      },
+      {
+        "color": "red",
+        "size": "38",
+        "stock": 11
+      },
+      {
+        "color": "red",
+        "size": "40",
+        "stock": 11
+      },
+      {
+        "color": "red",
+        "size": "42",
+        "stock": 11
+      },
+      {
+        "color": "red",
+        "size": "46",
+        "stock": 11
+      }
+    ]
+  },
+  {
+    "name": "atom mist blue",
+    "description": "With Alpha Boot we wanted to reinvent the classic trekking boot but with a much lighter, urban and comfortable sole. All this is due to the implementation of our latest sole: Alpha, with which we have achieved optimal grip, no matter the situation. In addition, thanks to its waxed microfiber surface, PU and its internal mesh lining, it makes it perfect for winter and the inclemency of your day to day in the city. The future of trekking boots is here.",
+    "price": 200,
+    "image": "shoes-(10).jpg",
+    "category": "63292e769de7cef23355a195",
+    "discount": 0,
+    "sold": 0,
+    "ratingAverage": 0,
+    "reviewsNumber": 0
+  },
+  {
+    "name": "atom mist gray",
+    "description": "With Alpha Boot we wanted to reinvent the classic trekking boot but with a much lighter, urban and comfortable sole. All this is due to the implementation of our latest sole: Alpha, with which we have achieved optimal grip, no matter the situation. In addition, thanks to its waxed microfiber surface, PU and its internal mesh lining, it makes it perfect for winter and the inclemency of your day to day in the city. The future of trekking boots is here.",
+    "price": 200,
+    "image": "shoes-(11).jpg",
+    "category": "63292e769de7cef23355a195",
+    "discount": 0,
+    "sold": 0,
+    "ratingAverage": 0,
+    "reviewsNumber": 0
+  },
+  {
+    "name": "marathon black boot",
+    "description": "With Alpha Boot we wanted to reinvent the classic trekking boot but with a much lighter, urban and comfortable sole. All this is due to the implementation of our latest sole: Alpha, with which we have achieved optimal grip, no matter the situation. In addition, thanks to its waxed microfiber surface, PU and its internal mesh lining, it makes it perfect for winter and the inclemency of your day to day in the city. The future of trekking boots is here.",
+    "price": 590,
+    "image": "shoes-(12).png",
+    "category": "63292e769de7cef23355a195",
+    "discount": 40,
+    "sold": 0,
+    "ratingAverage": 0,
+    "reviewsNumber": 0,
+    "variants": [
+      {
+        "color": "black",
+        "size": "38",
+        "stock": 4
+      },
+      {
+        "color": "black",
+        "size": "40",
+        "stock": 4
+      },
+      {
+        "color": "black",
+        "size": "42",
+        "stock": 4
+      },
+      {
+        "color": "black",
+        "size": "46",
+        "stock": 4
+      },
+      {
+        "color": "blue",
+        "size": "38",
+        "stock": 4
+      },
+      {
+        "color": "blue",
+        "size": "40",
+        "stock": 4
+      },
+      {
+        "color": "blue",
+        "size": "42",
+        "stock": 4
+      },
+      {
+        "color": "blue",
+        "size": "46",
+        "stock": 4
+      }
+    ]
+  },
+  {
+    "name": "alaska gray",
+    "description": "With Alpha Boot we wanted to reinvent the classic trekking boot but with a much lighter, urban and comfortable sole. All this is due to the implementation of our latest sole: Alpha, with which we have achieved optimal grip, no matter the situation. In addition, thanks to its waxed microfiber surface, PU and its internal mesh lining, it makes it perfect for winter and the inclemency of your day to day in the city. The future of trekking boots is here.",
+    "price": 100,
+    "image": "sneaker-(1).jpg",
+    "category": "63292e769de7cef23355a194",
+    "discount": 0,
+    "sold": 0,
+    "ratingAverage": 0,
+    "reviewsNumber": 0,
+    "variants": [
+      {
+        "color": "black",
+        "size": "38",
+        "stock": 2
+      },
+      {
+        "color": "black",
+        "size": "40",
+        "stock": 2
+      },
+      {
+        "color": "gray",
+        "size": "38",
+        "stock": 2
+      },
+      {
+        "color": "gray",
+        "size": "40",
+        "stock": 2
+      }
+    ]
+  },
+  {
+    "name": "alpha carbono dark red",
+    "description": "With Alpha Boot we wanted to reinvent the classic trekking boot but with a much lighter, urban and comfortable sole. All this is due to the implementation of our latest sole: Alpha, with which we have achieved optimal grip, no matter the situation. In addition, thanks to its waxed microfiber surface, PU and its internal mesh lining, it makes it perfect for winter and the inclemency of your day to day in the city. The future of trekking boots is here.",
+    "price": 400,
+    "image": "sneaker-(2).png",
+    "category": "63292e769de7cef23355a194",
+    "discount": 120,
+    "sold": 0,
+    "ratingAverage": 0,
+    "reviewsNumber": 0,
+    "variants": [
+      {
+        "color": "black",
+        "size": "38",
+        "stock": 0
+      },
+      {
+        "color": "black",
+        "size": "40",
+        "stock": 0
+      },
+      {
+        "color": "black",
+        "size": "42",
+        "stock": 0
+      },
+      {
+        "color": "black",
+        "size": "46",
+        "stock": 0
+      },
+      {
+        "color": "red",
+        "size": "38",
+        "stock": 0
+      },
+      {
+        "color": "red",
+        "size": "40",
+        "stock": 0
+      },
+      {
+        "color": "red",
+        "size": "42",
+        "stock": 0
+      },
+      {
+        "color": "red",
+        "size": "46",
+        "stock": 0
+      }
+    ]
+  },
+  {
+    "name": "alpha neo beige",
+    "description": "With Alpha Boot we wanted to reinvent the classic trekking boot but with a much lighter, urban and comfortable sole. All this is due to the implementation of our latest sole: Alpha, with which we have achieved optimal grip, no matter the situation. In addition, thanks to its waxed microfiber surface, PU and its internal mesh lining, it makes it perfect for winter and the inclemency of your day to day in the city. The future of trekking boots is here.",
+    "price": 590,
+    "image": "sneaker-(3).jpg",
+    "category": "63292e769de7cef23355a194",
+    "discount": 40,
+    "sold": 0,
+    "ratingAverage": 0,
+    "reviewsNumber": 0,
+    "variants": [
+      {
+        "color": "black",
+        "size": "38",
+        "stock": 14
+      },
+      {
+        "color": "black",
+        "size": "42",
+        "stock": 14
+      },
+      {
+        "color": "black",
+        "size": "46",
+        "stock": 14
+      },
+      {
+        "color": "blue",
+        "size": "38",
+        "stock": 14
+      },
+      {
+        "color": "blue",
+        "size": "42",
+        "stock": 14
+      },
+      {
+        "color": "blue",
+        "size": "46",
+        "stock": 14
+      },
+      {
+        "color": "beige",
+        "size": "38",
+        "stock": 14
+      },
+      {
+        "color": "beige",
+        "size": "42",
+        "stock": 14
+      },
+      {
+        "color": "beige",
+        "size": "46",
+        "stock": 14
+      },
+      {
+        "color": "gray",
+        "size": "38",
+        "stock": 14
+      },
+      {
+        "color": "gray",
+        "size": "42",
+        "stock": 14
+      },
+      {
+        "color": "gray",
+        "size": "46",
+        "stock": 14
+      }
+    ]
+  },
+  {
+    "name": "alpha neo dark gray",
+    "description": "With Alpha Boot we wanted to reinvent the classic trekking boot but with a much lighter, urban and comfortable sole. All this is due to the implementation of our latest sole: Alpha, with which we have achieved optimal grip, no matter the situation. In addition, thanks to its waxed microfiber surface, PU and its internal mesh lining, it makes it perfect for winter and the inclemency of your day to day in the city. The future of trekking boots is here.",
+    "price": 1500,
+    "image": "sneaker-(4).png",
+    "category": "63292e769de7cef23355a194",
+    "discount": 300,
+    "sold": 0,
+    "ratingAverage": 0,
+    "reviewsNumber": 0,
+    "variants": [
+      {
+        "color": "black",
+        "size": "40",
+        "stock": 12
+      },
+      {
+        "color": "black",
+        "size": "42",
+        "stock": 12
+      },
+      {
+        "color": "black",
+        "size": "46",
+        "stock": 12
+      },
+      {
+        "color": "blue",
+        "size": "40",
+        "stock": 12
+      },
+      {
+        "color": "blue",
+        "size": "42",
+        "stock": 12
+      },
+      {
+        "color": "blue",
+        "size": "46",
+        "stock": 12
+      },
+      {
+        "color": "gray",
+        "size": "40",
+        "stock": 12
+      },
+      {
+        "color": "gray",
+        "size": "42",
+        "stock": 12
+      },
+      {
+        "color": "gray",
+        "size": "46",
+        "stock": 12
+      }
+    ]
+  },
+  {
+    "name": "alpha neo pink",
+    "description": "With Alpha Boot we wanted to reinvent the classic trekking boot but with a much lighter, urban and comfortable sole. All this is due to the implementation of our latest sole: Alpha, with which we have achieved optimal grip, no matter the situation. In addition, thanks to its waxed microfiber surface, PU and its internal mesh lining, it makes it perfect for winter and the inclemency of your day to day in the city. The future of trekking boots is here.",
+    "price": 705,
+    "image": "sneaker-(5).png",
+    "category": "63292e769de7cef23355a194",
+    "discount": 50,
+    "sold": 0,
+    "ratingAverage": 0,
+    "reviewsNumber": 0,
+    "variants": [
+      {
+        "color": "black",
+        "size": "38",
+        "stock": 3
+      },
+      {
+        "color": "black",
+        "size": "40",
+        "stock": 3
+      },
+      {
+        "color": "black",
+        "size": "42",
+        "stock": 3
+      },
+      {
+        "color": "black",
+        "size": "46",
+        "stock": 3
+      },
+      {
+        "color": "pink",
+        "size": "38",
+        "stock": 3
+      },
+      {
+        "color": "pink",
+        "size": "40",
+        "stock": 3
+      },
+      {
+        "color": "pink",
+        "size": "42",
+        "stock": 3
+      },
+      {
+        "color": "pink",
+        "size": "46",
+        "stock": 3
+      }
+    ]
+  },
+  {
+    "name": "army blue",
+    "description": "With Alpha Boot we wanted to reinvent the classic trekking boot but with a much lighter, urban and comfortable sole. All this is due to the implementation of our latest sole: Alpha, with which we have achieved optimal grip, no matter the situation. In addition, thanks to its waxed microfiber surface, PU and its internal mesh lining, it makes it perfect for winter and the inclemency of your day to day in the city. The future of trekking boots is here.",
+    "price": 200,
+    "image": "sneaker-(6).png",
+    "category": "63292e769de7cef23355a194",
+    "discount": 0,
+    "sold": 0,
+    "ratingAverage": 0,
+    "reviewsNumber": 0,
+    "variants": [
+      {
+        "color": "black",
+        "size": "38",
+        "stock": 5
+      },
+      {
+        "color": "black",
+        "size": "40",
+        "stock": 5
+      },
+      {
+        "color": "black",
+        "size": "42",
+        "stock": 5
+      },
+      {
+        "color": "black",
+        "size": "46",
+        "stock": 5
+      },
+      {
+        "color": "blue",
+        "size": "38",
+        "stock": 5
+      },
+      {
+        "color": "blue",
+        "size": "40",
+        "stock": 5
+      },
+      {
+        "color": "blue",
+        "size": "42",
+        "stock": 5
+      },
+      {
+        "color": "blue",
+        "size": "46",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "name": "army gray",
+    "description": "With Alpha Boot we wanted to reinvent the classic trekking boot but with a much lighter, urban and comfortable sole. All this is due to the implementation of our latest sole: Alpha, with which we have achieved optimal grip, no matter the situation. In addition, thanks to its waxed microfiber surface, PU and its internal mesh lining, it makes it perfect for winter and the inclemency of your day to day in the city. The future of trekking boots is here.",
+    "price": 400,
+    "image": "sneaker-(7).jpg",
+    "category": "63292e769de7cef23355a194",
+    "discount": 0,
+    "sold": 0,
+    "ratingAverage": 0,
+    "reviewsNumber": 0,
+    "variants": [
+      {
+        "color": "black",
+        "size": "38",
+        "stock": 6
+      },
+      {
+        "color": "black",
+        "size": "40",
+        "stock": 6
+      },
+      {
+        "color": "gray",
+        "size": "38",
+        "stock": 6
+      },
+      {
+        "color": "gray",
+        "size": "40",
+        "stock": 6
+      }
+    ]
+  },
+  {
+    "name": "atom oasis orange",
+    "description": "With Alpha Boot we wanted to reinvent the classic trekking boot but with a much lighter, urban and comfortable sole. All this is due to the implementation of our latest sole: Alpha, with which we have achieved optimal grip, no matter the situation. In addition, thanks to its waxed microfiber surface, PU and its internal mesh lining, it makes it perfect for winter and the inclemency of your day to day in the city. The future of trekking boots is here.",
+    "price": 1350,
+    "image": "sneaker-(8).jpg",
+    "category": "63292e769de7cef23355a194",
+    "discount": 200,
+    "sold": 0,
+    "ratingAverage": 0,
+    "reviewsNumber": 0,
+    "variants": [
+      {
+        "color": "black",
+        "size": "38",
+        "stock": 8
+      },
+      {
+        "color": "black",
+        "size": "40",
+        "stock": 8
+      },
+      {
+        "color": "black",
+        "size": "42",
+        "stock": 8
+      },
+      {
+        "color": "black",
+        "size": "46",
+        "stock": 8
+      },
+      {
+        "color": "orange",
+        "size": "38",
+        "stock": 8
+      },
+      {
+        "color": "orange",
+        "size": "40",
+        "stock": 8
+      },
+      {
+        "color": "orange",
+        "size": "42",
+        "stock": 8
+      },
+      {
+        "color": "orange",
+        "size": "46",
+        "stock": 8
+      },
+      {
+        "color": "red",
+        "size": "38",
+        "stock": 8
+      },
+      {
+        "color": "red",
+        "size": "40",
+        "stock": 8
+      },
+      {
+        "color": "red",
+        "size": "42",
+        "stock": 8
+      },
+      {
+        "color": "red",
+        "size": "46",
+        "stock": 8
+      }
+    ]
+  },
+  {
+    "name": "atom oasis red",
+    "description": "With Alpha Boot we wanted to reinvent the classic trekking boot but with a much lighter, urban and comfortable sole. All this is due to the implementation of our latest sole: Alpha, with which we have achieved optimal grip, no matter the situation. In addition, thanks to its waxed microfiber surface, PU and its internal mesh lining, it makes it perfect for winter and the inclemency of your day to day in the city. The future of trekking boots is here.",
+    "price": 150,
+    "image": "sneaker-(9).jpg",
+    "category": "63292e769de7cef23355a194",
+    "discount": 20,
+    "sold": 0,
+    "ratingAverage": 0,
+    "reviewsNumber": 0,
+    "variants": [
+      {
+        "color": "black",
+        "size": "38",
+        "stock": 10
+      },
+      {
+        "color": "black",
+        "size": "40",
+        "stock": 10
+      },
+      {
+        "color": "black",
+        "size": "46",
+        "stock": 10
+      },
+      {
+        "color": "orange",
+        "size": "38",
+        "stock": 10
+      },
+      {
+        "color": "orange",
+        "size": "40",
+        "stock": 10
+      },
+      {
+        "color": "orange",
+        "size": "46",
+        "stock": 10
+      },
+      {
+        "color": "red",
+        "size": "38",
+        "stock": 10
+      },
+      {
+        "color": "red",
+        "size": "40",
+        "stock": 10
+      },
+      {
+        "color": "red",
+        "size": "46",
+        "stock": 10
+      }
+    ]
+  },
+  {
+    "name": "density blue",
+    "description": "With Alpha Boot we wanted to reinvent the classic trekking boot but with a much lighter, urban and comfortable sole. All this is due to the implementation of our latest sole: Alpha, with which we have achieved optimal grip, no matter the situation. In addition, thanks to its waxed microfiber surface, PU and its internal mesh lining, it makes it perfect for winter and the inclemency of your day to day in the city. The future of trekking boots is here.",
+    "price": 2000,
+    "image": "sneaker-(10).png",
+    "category": "63292e769de7cef23355a194",
+    "discount": 500,
+    "sold": 0,
+    "ratingAverage": 0,
+    "reviewsNumber": 0,
+    "variants": [
+      {
+        "color": "black",
+        "size": "38",
+        "stock": 12
+      },
+      {
+        "color": "black",
+        "size": "40",
+        "stock": 12
+      },
+      {
+        "color": "black",
+        "size": "42",
+        "stock": 12
+      },
+      {
+        "color": "black",
+        "size": "46",
+        "stock": 12
+      },
+      {
+        "color": "blue",
+        "size": "38",
+        "stock": 12
+      },
+      {
+        "color": "blue",
+        "size": "40",
+        "stock": 12
+      },
+      {
+        "color": "blue",
+        "size": "42",
+        "stock": 12
+      },
+      {
+        "color": "blue",
+        "size": "46",
+        "stock": 12
+      }
+    ]
+  },
+  {
+    "name": "hybrid black",
+    "description": "With Alpha Boot we wanted to reinvent the classic trekking boot but with a much lighter, urban and comfortable sole. All this is due to the implementation of our latest sole: Alpha, with which we have achieved optimal grip, no matter the situation. In addition, thanks to its waxed microfiber surface, PU and its internal mesh lining, it makes it perfect for winter and the inclemency of your day to day in the city. The future of trekking boots is here.",
+    "price": 40,
+    "image": "sneaker-(11).jpg",
+    "category": "63292e769de7cef23355a194",
+    "discount": 0,
+    "sold": 0,
+    "ratingAverage": 0,
+    "reviewsNumber": 0,
+    "variants": [
+      {
+        "color": "black",
+        "size": "38",
+        "stock": 0
+      },
+      {
+        "color": "black",
+        "size": "40",
+        "stock": 0
+      },
+      {
+        "color": "black",
+        "size": "42",
+        "stock": 0
+      },
+      {
+        "color": "black",
+        "size": "46",
+        "stock": 0
+      },
+      {
+        "color": "blue",
+        "size": "38",
+        "stock": 0
+      },
+      {
+        "color": "blue",
+        "size": "40",
+        "stock": 0
+      },
+      {
+        "color": "blue",
+        "size": "42",
+        "stock": 0
+      },
+      {
+        "color": "blue",
+        "size": "46",
+        "stock": 0
+      }
+    ]
+  },
+  {
+    "name": "juno cloud blue",
+    "description": "With Alpha Boot we wanted to reinvent the classic trekking boot but with a much lighter, urban and comfortable sole. All this is due to the implementation of our latest sole: Alpha, with which we have achieved optimal grip, no matter the situation. In addition, thanks to its waxed microfiber surface, PU and its internal mesh lining, it makes it perfect for winter and the inclemency of your day to day in the city. The future of trekking boots is here.",
+    "price": 75,
+    "image": "sneaker-(12).jpg",
+    "category": "63292e769de7cef23355a194",
+    "discount": 0,
+    "sold": 0,
+    "ratingAverage": 0,
+    "reviewsNumber": 0,
+    "variants": [
+      {
+        "color": "black",
+        "size": "38",
+        "stock": 20
+      },
+      {
+        "color": "black",
+        "size": "40",
+        "stock": 20
+      },
+      {
+        "color": "black",
+        "size": "42",
+        "stock": 20
+      },
+      {
+        "color": "black",
+        "size": "46",
+        "stock": 20
+      },
+      {
+        "color": "blue",
+        "size": "38",
+        "stock": 20
+      },
+      {
+        "color": "blue",
+        "size": "40",
+        "stock": 20
+      },
+      {
+        "color": "blue",
+        "size": "42",
+        "stock": 20
+      },
+      {
+        "color": "blue",
+        "size": "46",
+        "stock": 20
+      }
+    ]
+  },
+  {
+    "category": "63292e769de7cef23355a196",
+    "name": "home mood black",
+    "image": "slipper-(1).jpg",
+    "price": 340,
+    "discount": 70,
+    "description": "With Alpha Boot we wanted to reinvent the classic trekking boot but with a much lighter, urban and comfortable sole. All this is due to the implementation of our latest sole: Alpha, with which we have achieved optimal grip, no matter the situation. In addition, thanks to its waxed microfiber surface, PU and its internal mesh lining, it makes it perfect for winter and the inclemency of your day to day in the city. The future of trekking boots is here.",
+    "sold": 0,
+    "ratingAverage": 0,
+    "reviewsNumber": 0,
+    "variants": [
+      {
+        "color": "black",
+        "size": "38",
+        "stock": 5
+      },
+      {
+        "color": "black",
+        "size": "40",
+        "stock": 5
+      },
+      {
+        "color": "black",
+        "size": "42",
+        "stock": 5
+      },
+      {
+        "color": "black",
+        "size": "46",
+        "stock": 5
+      },
+      {
+        "color": "blue",
+        "size": "38",
+        "stock": 5
+      },
+      {
+        "color": "blue",
+        "size": "40",
+        "stock": 5
+      },
+      {
+        "color": "blue",
+        "size": "42",
+        "stock": 5
+      },
+      {
+        "color": "blue",
+        "size": "46",
+        "stock": 5
+      },
+      {
+        "color": "brown",
+        "size": "38",
+        "stock": 5
+      },
+      {
+        "color": "brown",
+        "size": "40",
+        "stock": 5
+      },
+      {
+        "color": "brown",
+        "size": "42",
+        "stock": 5
+      },
+      {
+        "color": "brown",
+        "size": "46",
+        "stock": 5
+      },
+      {
+        "color": "gray",
+        "size": "38",
+        "stock": 5
+      },
+      {
+        "color": "gray",
+        "size": "40",
+        "stock": 5
+      },
+      {
+        "color": "gray",
+        "size": "42",
+        "stock": 5
+      },
+      {
+        "color": "gray",
+        "size": "46",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "category": "63292e769de7cef23355a196",
+    "name": "home mood blue",
+    "image": "slipper-(2).jpg",
+    "price": 360,
+    "discount": 0,
+    "description": "With Alpha Boot we wanted to reinvent the classic trekking boot but with a much lighter, urban and comfortable sole. All this is due to the implementation of our latest sole: Alpha, with which we have achieved optimal grip, no matter the situation. In addition, thanks to its waxed microfiber surface, PU and its internal mesh lining, it makes it perfect for winter and the inclemency of your day to day in the city. The future of trekking boots is here.",
+    "sold": 0,
+    "ratingAverage": 0,
+    "reviewsNumber": 0,
+    "variants": [
+      {
+        "color": "black",
+        "size": "38",
+        "stock": 5
+      },
+      {
+        "color": "black",
+        "size": "40",
+        "stock": 5
+      },
+      {
+        "color": "black",
+        "size": "42",
+        "stock": 5
+      },
+      {
+        "color": "black",
+        "size": "46",
+        "stock": 5
+      },
+      {
+        "color": "blue",
+        "size": "38",
+        "stock": 5
+      },
+      {
+        "color": "blue",
+        "size": "40",
+        "stock": 5
+      },
+      {
+        "color": "blue",
+        "size": "42",
+        "stock": 5
+      },
+      {
+        "color": "blue",
+        "size": "46",
+        "stock": 5
+      },
+      {
+        "color": "brown",
+        "size": "38",
+        "stock": 5
+      },
+      {
+        "color": "brown",
+        "size": "40",
+        "stock": 5
+      },
+      {
+        "color": "brown",
+        "size": "42",
+        "stock": 5
+      },
+      {
+        "color": "brown",
+        "size": "46",
+        "stock": 5
+      },
+      {
+        "color": "gray",
+        "size": "38",
+        "stock": 5
+      },
+      {
+        "color": "gray",
+        "size": "40",
+        "stock": 5
+      },
+      {
+        "color": "gray",
+        "size": "42",
+        "stock": 5
+      },
+      {
+        "color": "gray",
+        "size": "46",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "category": "63292e769de7cef23355a196",
+    "name": "slipper gray",
+    "image": "slipper-(3).webp",
+    "price": 950,
+    "discount": 280,
+    "description": "With Alpha Boot we wanted to reinvent the classic trekking boot but with a much lighter, urban and comfortable sole. All this is due to the implementation of our latest sole: Alpha, with which we have achieved optimal grip, no matter the situation. In addition, thanks to its waxed microfiber surface, PU and its internal mesh lining, it makes it perfect for winter and the inclemency of your day to day in the city. The future of trekking boots is here.",
+    "sold": 0,
+    "ratingAverage": 0,
+    "reviewsNumber": 0,
+    "variants": [
+      {
+        "color": "black",
+        "size": "42",
+        "stock": 5
+      },
+      {
+        "color": "black",
+        "size": "46",
+        "stock": 5
+      },
+      {
+        "color": "blue",
+        "size": "42",
+        "stock": 5
+      },
+      {
+        "color": "blue",
+        "size": "46",
+        "stock": 5
+      },
+      {
+        "color": "gray",
+        "size": "42",
+        "stock": 5
+      },
+      {
+        "color": "gray",
+        "size": "46",
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "category": "63292e769de7cef23355a197",
+    "subcategories": [
+      "63292e779de7cef23355a199"
+    ],
+    "name": "block beige",
+    "image": "Accs-Bags-(1).png",
+    "price": 90,
+    "discount": 0,
+    "description": "With Alpha Boot we wanted to reinvent the classic trekking boot but with a much lighter, urban and comfortable sole. All this is due to the implementation of our latest sole: Alpha, with which we have achieved optimal grip, no matter the situation. In addition, thanks to its waxed microfiber surface, PU and its internal mesh lining, it makes it perfect for winter and the inclemency of your day to day in the city. The future of trekking boots is here.",
+    "sold": 0,
+    "ratingAverage": 0,
+    "reviewsNumber": 0
+  },
+  {
+    "category": "63292e769de7cef23355a197",
+    "subcategories": [
+      "63292e779de7cef23355a199"
+    ],
+    "name": "block black",
+    "image": "Accs-Bags-(2).png",
+    "price": 1000,
+    "discount": 142,
+    "description": "With Alpha Boot we wanted to reinvent the classic trekking boot but with a much lighter, urban and comfortable sole. All this is due to the implementation of our latest sole: Alpha, with which we have achieved optimal grip, no matter the situation. In addition, thanks to its waxed microfiber surface, PU and its internal mesh lining, it makes it perfect for winter and the inclemency of your day to day in the city. The future of trekking boots is here.",
+    "sold": 0,
+    "ratingAverage": 0,
+    "reviewsNumber": 0
+  },
+  {
+    "category": "63292e769de7cef23355a197",
+    "subcategories": [
+      "63292e779de7cef23355a199"
+    ],
+    "name": "block blue",
+    "image": "Accs-Bags-(3).png",
+    "sliderImages": [
+      "Accs-Bags-(3)-slide-(1).png",
+      "Accs-Bags-(3)-slide-(2).png"
+    ],
+    "price": 700,
+    "discount": 150,
+    "description": "With Alpha Boot we wanted to reinvent the classic trekking boot but with a much lighter, urban and comfortable sole. All this is due to the implementation of our latest sole: Alpha, with which we have achieved optimal grip, no matter the situation. In addition, thanks to its waxed microfiber surface, PU and its internal mesh lining, it makes it perfect for winter and the inclemency of your day to day in the city. The future of trekking boots is here.",
+    "sold": 0,
+    "ratingAverage": 0,
+    "reviewsNumber": 0
+  },
+  {
+    "category": "63292e769de7cef23355a197",
+    "subcategories": [
+      "63292e779de7cef23355a199"
+    ],
+    "name": "suite blue",
+    "image": "Accs-Bags-(4).png",
+    "price": 500,
+    "discount": 130,
+    "description": "With Alpha Boot we wanted to reinvent the classic trekking boot but with a much lighter, urban and comfortable sole. All this is due to the implementation of our latest sole: Alpha, with which we have achieved optimal grip, no matter the situation. In addition, thanks to its waxed microfiber surface, PU and its internal mesh lining, it makes it perfect for winter and the inclemency of your day to day in the city. The future of trekking boots is here.",
+    "sold": 0,
+    "ratingAverage": 0,
+    "reviewsNumber": 0
+  },
+  {
+    "category": "63292e769de7cef23355a197",
+    "subcategories": [
+      "63292e779de7cef23355a199"
+    ],
+    "name": "suite grape",
+    "image": "Accs-Bags-(5).jpg",
+    "price": 700,
+    "discount": 80,
+    "description": "With Alpha Boot we wanted to reinvent the classic trekking boot but with a much lighter, urban and comfortable sole. All this is due to the implementation of our latest sole: Alpha, with which we have achieved optimal grip, no matter the situation. In addition, thanks to its waxed microfiber surface, PU and its internal mesh lining, it makes it perfect for winter and the inclemency of your day to day in the city. The future of trekking boots is here.",
+    "sold": 0,
+    "ratingAverage": 0,
+    "reviewsNumber": 0
+  },
+  {
+    "category": "63292e769de7cef23355a197",
+    "subcategories": [
+      "63292e779de7cef23355a19a"
+    ],
+    "name": "the pocket x black",
+    "image": "Accs-wallet-(1).jpg",
+    "price": 700,
+    "discount": 0,
+    "description": "With Alpha Boot we wanted to reinvent the classic trekking boot but with a much lighter, urban and comfortable sole. All this is due to the implementation of our latest sole: Alpha, with which we have achieved optimal grip, no matter the situation. In addition, thanks to its waxed microfiber surface, PU and its internal mesh lining, it makes it perfect for winter and the inclemency of your day to day in the city. The future of trekking boots is here.",
+    "sold": 0,
+    "ratingAverage": 0,
+    "reviewsNumber": 0
+  },
+  {
+    "category": "63292e769de7cef23355a197",
+    "subcategories": [
+      "63292e779de7cef23355a19a"
+    ],
+    "name": "the pocket y black",
+    "image": "Accs-wallet-(2).jpg",
+    "price": 400,
+    "discount": 100,
+    "description": "With Alpha Boot we wanted to reinvent the classic trekking boot but with a much lighter, urban and comfortable sole. All this is due to the implementation of our latest sole: Alpha, with which we have achieved optimal grip, no matter the situation. In addition, thanks to its waxed microfiber surface, PU and its internal mesh lining, it makes it perfect for winter and the inclemency of your day to day in the city. The future of trekking boots is here.",
+    "sold": 0,
+    "ratingAverage": 0,
+    "reviewsNumber": 0
+  },
+  {
+    "category": "63292e769de7cef23355a197",
+    "subcategories": [
+      "63292e779de7cef23355a19a"
+    ],
+    "name": "the pocket beige",
+    "image": "Accs-wallet-(3).png",
+    "price": 300,
+    "discount": 50,
+    "description": "With Alpha Boot we wanted to reinvent the classic trekking boot but with a much lighter, urban and comfortable sole. All this is due to the implementation of our latest sole: Alpha, with which we have achieved optimal grip, no matter the situation. In addition, thanks to its waxed microfiber surface, PU and its internal mesh lining, it makes it perfect for winter and the inclemency of your day to day in the city. The future of trekking boots is here.",
+    "sold": 0,
+    "ratingAverage": 0,
+    "reviewsNumber": 0
+  },
+  {
+    "category": "63292e769de7cef23355a197",
+    "subcategories": [
+      "63292e779de7cef23355a19a"
+    ],
+    "name": "the pocket blue",
+    "image": "Accs-wallet-(4).webp",
+    "price": 100,
+    "discount": 0,
+    "description": "With Alpha Boot we wanted to reinvent the classic trekking boot but with a much lighter, urban and comfortable sole. All this is due to the implementation of our latest sole: Alpha, with which we have achieved optimal grip, no matter the situation. In addition, thanks to its waxed microfiber surface, PU and its internal mesh lining, it makes it perfect for winter and the inclemency of your day to day in the city. The future of trekking boots is here.",
+    "sold": 0,
+    "ratingAverage": 0,
+    "reviewsNumber": 0
+  }
+]
